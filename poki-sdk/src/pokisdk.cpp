@@ -3,6 +3,7 @@
 #define MODULE_NAME "poki_sdk"
 
 #include <dmsdk/sdk.h>
+#include <dmsdk/sound/sound.h>
 
 #if defined(DM_PLATFORM_HTML5)
 
